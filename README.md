@@ -1,2 +1,1 @@
-# html
-Demo new HTML project
+## Demo new HTML project
